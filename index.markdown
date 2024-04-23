@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Welcome to GoodEnough.Systems!
+<br>
+This page is currently under construction
