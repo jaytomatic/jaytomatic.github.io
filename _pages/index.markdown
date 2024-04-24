@@ -5,10 +5,10 @@
 layout: home
 permalink: /
 ---
-Welcome to GoodEnough.Systems!
-<br>
+## Welcome to GoodEnough.Systems!
+
 This page is currently under construction
 
-[About](/about/)
-<br>
-[FAQ](/faq)
+### [About](/about/)
+
+### [FAQ](/faq/)
