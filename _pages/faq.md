@@ -7,7 +7,7 @@ permalink: /faq/
 
 #### This blog just launched, how can there be any frequently asked questions?
 
-The frequency with which these questions have been asked is irrelevant.
+The frequency with which these questions have been asked is irrelevant. Mind your business.
 
 #### Why does this site look so bad?
 
