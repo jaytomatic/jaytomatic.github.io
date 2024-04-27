@@ -29,9 +29,27 @@
   
 }
 
+.topnav a:visited{
+  color: black;
+}
+
   
-  body {
+body {
     font-size: 18px;
-    font-family: Helvetica, sans-serif
+    font-family: Helvetica, sans-serif;
   }
+
+body a{
+  color: #656176;
+  text-decoration: none;
+  }
+
+body a:visited{
+  color: #534D56;
+  text-decoration: none;
+}
+
+body a:hover{
+  color:#1B998B;
+}
   

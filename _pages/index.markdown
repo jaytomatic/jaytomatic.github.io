@@ -13,10 +13,6 @@ permalink: /
 </a>
 
 
-
-
-This page is currently under construction
-
 ### [About](/about/)
 
 ### [FAQ](/faq/)
