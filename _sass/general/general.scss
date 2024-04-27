@@ -2,35 +2,36 @@
     box-sizing: border-box;
     margin: 1px;
     padding: 5px;
+    background-color: #F8F1FF;
   }
 
-ul {
+.topnav { 
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 3px;
+  padding: 3px;
   overflow: hidden;
-  background-color: #a9cbb7;
+  background-color: #1B998B;  
 }
 
-li {
+.topnav a {
   float: right;
-}
-
-li a {
-  display: block;
-  color: #0A2463;
+  background-color: #1B998B;
+  color: black;
   text-align: center;
-  padding: 10px 10px;
+  padding: 16px 14px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
   text-decoration: none;
 }
 
-li a:hover {
-  background-color: #FFC800;
+.topnav a:hover {
+  background-color: #DECDF5;
+  
 }
 
   
   body {
     font-size: 18px;
-    font-family: Arial;
+    font-family: Helvetica, sans-serif
   }
   
