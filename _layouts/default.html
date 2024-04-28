@@ -7,14 +7,19 @@
     <title> GoodEnough - {{ page.title }} </title>
 
 {% include head.html %}
-
+<script src="/assets/js/menu.js"></script>
+<script src="https://kit.fontawesome.com/09f8d77a54.js" crossorigin="anonymous"></script>
 </head>
 <body>
-    <div class="topnav">   
-        <a href="/contact" {% if page.title == "Contact" %}class="active-page"{% endif %}>Contact</a></li>
-        <a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>About</a></li>
-        <a href="/blog" {% if page.title == "Blog" %}class="active-page"{% endif %}>Blog</a></li>
-        <a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>Home</a></li>
+    <div class="topnav" id="myTopnav">
+        <a href="/" {% if page.title == "Home" %}class="active-page"{% endif %}>Home</a>
+        <a href="/blog" {% if page.title == "Blog" %}class="active-page"{% endif %}>Blog</a>
+        <a href="/about" {% if page.title == "About" %}class="active-page"{% endif %}>About</a>
+        <a href="/contact" {% if page.title == "Contact" %}class="active-page"{% endif %}>Contact</a>
+        <a href="javascript:void(0);" class="icon" onclick="menuFunction()">
+        <i class="fa-solid fa-bars"></i>
+    </a>    
+                
     </div>
     <main class="page-content">
         {{ content }}
