@@ -11,6 +11,4 @@ permalink: /
 </a>
 
 
-### [About](/about/)
-
 ### [FAQ](/faq/)
