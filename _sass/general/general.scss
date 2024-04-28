@@ -1,22 +1,16 @@
-* {
-    box-sizing: border-box;
-    margin: 10px;
-    padding: 5px;
-    background-color: #F8F1FF;
-  }
 
-.topnav { 
-  position: relative;
+
+.topnav {
   overflow: hidden;
   background-color: #1B998B;  
 }
 
 .topnav a {
   float: left;
-  background-color: #1B998B;
+  display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 18px;
   font-family: Helvetica, sans-serif;
   font-weight: bold;
   font-size: larger;
@@ -32,6 +26,8 @@
   color: black;
 }
 
+
+
 .topnav .icon {
   display: none;
 }
@@ -44,13 +40,15 @@
   .topnav a.icon {
     float: right;
     display: block;
-    padding: 0%;
-    background-color: #1B998B;
+    
   }
 
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
+    right: 0;
+    top:0;
+
     
   }
   .topnav.responsive a {
@@ -79,4 +77,3 @@ body a:visited{
 body a:hover{
   color:#656176;
 }
-  
