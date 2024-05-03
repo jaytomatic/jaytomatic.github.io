@@ -5,12 +5,13 @@ permalink: /
 ---
 
 <div class="bodycontent">
-<h2> Lastest Post </h2>
+<p> Lastest Post </p>
 
 {% assign post = site.posts.first %}
-<a href="{{ post.url }}"> {{ post.title}}
-</a>
-</div>
+<h2> {{ post.title }} </h2>
+<p> {{ post.content | truncatewords:75 }} <a href="{{ post.url }}"> read more...
+</a> </p>
 
 
-### [FAQ](/faq/)
+
+<h2> <a href="/_pages/faq.md>">FAQ</a> </h2>
