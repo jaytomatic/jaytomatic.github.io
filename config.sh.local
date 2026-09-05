@@ -22,6 +22,6 @@ CACHE_DIR="/home/jonathan/Documents/jaytomatic.github.io/.bssg_cache"
 
 # --- Site Specific Overrides ---
  SITE_TITLE="Good Enough Systems"
-# SITE_URL="http://example.com"
+ SITE_URL="https://jaytomatic.github.io"
  THEME="microfiche" # Optional: override theme just for this site
 
