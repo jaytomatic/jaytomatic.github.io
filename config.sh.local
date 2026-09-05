@@ -14,7 +14,7 @@ SRC_DIR="/home/jonathan/Documents/jaytomatic.github.io/src"
 PAGES_DIR="/home/jonathan/Documents/jaytomatic.github.io/pages"
 DRAFTS_DIR="/home/jonathan/Documents/jaytomatic.github.io/drafts"
 STATIC_DIR="/home/jonathan/Documents/jaytomatic.github.io/static"
-OUTPUT_DIR="/home/jonathan/Documents/jaytomatic.github.io/output" # Site output directory
+OUTPUT_DIR="/home/jonathan/Documents/jaytomatic.github.io/docs" # Site output directory
 
 # --- Build Specific Overrides ---
 # Place the cache directory within this site's directory

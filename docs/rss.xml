@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+    <title>Good Enough Systems - RSS Feed</title>
+    <link>http://localhost:8000/</link>
+    <description>A complete SSG - written in bash</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 05 Sep 2026 22:58:58 GMT</lastBuildDate>
+    <atom:link href="http://localhost:8000/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+        <title>Test post</title>
+        <link>http://localhost:8000/2026/09/05/test-post/</link>
+        <guid isPermaLink="true">http://localhost:8000/2026/09/05/test-post/</guid>
+        <pubDate>Sat, 05 Sep 2026 22:29:32 GMT</pubDate>
+        <atom:updated>2026-09-05T17:29:32-05:00</atom:updated>
+        <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus dolor eget efficitur rutrum. Aliquam vulputate ligula eget enim luctus, eu interdum nisl u...]]></description>
+        
+        <dc:creator>Anonymous (anonymous@example.com)</dc:creator>
+    </item>
+</channel>
+</rss>
