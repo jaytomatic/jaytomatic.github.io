@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://jaytomatic.github.io/sitemap.xml
+Sitemap: https://goodenough.systems/sitemap.xml

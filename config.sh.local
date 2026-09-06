@@ -27,7 +27,7 @@ THEME="microfiche"
 # --- Site information ---
 SITE_TITLE="Good Enough Systems"
 SITE_DESCRIPTION="Digital home of J. Thomas"
-SITE_URL="https://jaytomatic.github.io"
+SITE_URL="https://goodenough.systems"
 AUTHOR_NAME="J. Thomas"
 REL_ME_URL="https://tvwatch.party/@jontv"
 FEDIVERSE_CREATOR="jontv@tvwatch.party"

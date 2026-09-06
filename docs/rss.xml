@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
     <title>Good Enough Systems - RSS Feed</title>
-    <link>https://jaytomatic.github.io/</link>
+    <link>https://goodenough.systems/</link>
     <description>Digital home of J. Thomas</description>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:16:06 GMT</lastBuildDate>
-    <atom:link href="https://jaytomatic.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2026 16:37:55 GMT</lastBuildDate>
+    <atom:link href="https://goodenough.systems/rss.xml" rel="self" type="application/rss+xml" />
     <item>
         <title>Test post</title>
-        <link>https://jaytomatic.github.io/2026/test-post/</link>
-        <guid isPermaLink="true">https://jaytomatic.github.io/2026/test-post/</guid>
+        <link>https://goodenough.systems/2026/test-post/</link>
+        <guid isPermaLink="true">https://goodenough.systems/2026/test-post/</guid>
         <pubDate>Sat, 05 Sep 2026 22:29:32 GMT</pubDate>
         <atom:updated>2026-09-05T17:29:32-05:00</atom:updated>
         <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus dolor eget efficitur rutrum. Aliquam vulputate ligula eget enim luctus, eu interdum nisl ullamcorper. Quisque egestas eget erat et viverra. Mauris libero justo, sagittis et eleifend dictum, tempor non mi. Quisque a nisl sit amet ex volutpat pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque in sagittis erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam varius molestie odio, nec convallis enim.</p>
