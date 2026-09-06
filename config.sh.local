@@ -20,8 +20,21 @@ OUTPUT_DIR="/home/jonathan/Documents/jaytomatic.github.io/docs" # Site output di
 # Place the cache directory within this site's directory
 CACHE_DIR="/home/jonathan/Documents/jaytomatic.github.io/.bssg_cache"
 
-# --- Site Specific Overrides ---
- SITE_TITLE="Good Enough Systems"
- SITE_URL="https://jaytomatic.github.io"
- THEME="microfiche" # Optional: override theme just for this site
+# --- Customization ---
+THEME="microfiche"
+# CUSTOM_CSS=""
+
+# --- Site information ---
+SITE_TITLE="Good Enough Systems"
+SITE_DESCRIPTION="Digital home of J. Thomas"
+SITE_URL="https://jaytomatic.github.io"
+AUTHOR_NAME="J. Thomas"
+REL_ME_URL="https://tvwatch.party/@jontv"
+FEDIVERSE_CREATOR="jontv@tvwatch.party"
+
+# --- Content configuration ---
+POSTS_PER_PAGE="10"
+RSS_INCLUDE_FULL_CONTENT="true"
+URL_SLUG_FORMAT="Year/slug"
+
 

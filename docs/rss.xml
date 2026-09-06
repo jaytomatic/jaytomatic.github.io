@@ -3,19 +3,23 @@
 <channel>
     <title>Good Enough Systems - RSS Feed</title>
     <link>https://jaytomatic.github.io/</link>
-    <description>A complete SSG - written in bash</description>
+    <description>Digital home of J. Thomas</description>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 23:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:11:44 GMT</lastBuildDate>
     <atom:link href="https://jaytomatic.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <item>
         <title>Test post</title>
-        <link>https://jaytomatic.github.io/2026/09/05/test-post/</link>
-        <guid isPermaLink="true">https://jaytomatic.github.io/2026/09/05/test-post/</guid>
+        <link>https://jaytomatic.github.io/2026/test-post/</link>
+        <guid isPermaLink="true">https://jaytomatic.github.io/2026/test-post/</guid>
         <pubDate>Sat, 05 Sep 2026 22:29:32 GMT</pubDate>
         <atom:updated>2026-09-05T17:29:32-05:00</atom:updated>
-        <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus dolor eget efficitur rutrum. Aliquam vulputate ligula eget enim luctus, eu interdum nisl u...]]></description>
+        <description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus dolor eget efficitur rutrum. Aliquam vulputate ligula eget enim luctus, eu interdum nisl ullamcorper. Quisque egestas eget erat et viverra. Mauris libero justo, sagittis et eleifend dictum, tempor non mi. Quisque a nisl sit amet ex volutpat pellentesque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque in sagittis erat. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam varius molestie odio, nec convallis enim.</p>
+<p>Pellentesque nec elit venenatis est ultricies ullamcorper. Suspendisse feugiat dapibus lectus, a convallis est consectetur vitae. Nunc sed mauris vitae libero ultrices mollis. Integer nec nisi dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed viverra est in iaculis maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc quis nisl semper, aliquet mi ut, viverra odio. Aenean maximus aliquet suscipit. Sed posuere nisl ante, nec ornare mauris blandit vel. Sed felis risus, blandit a sapien at, pretium placerat felis. Morbi varius elit finibus, pulvinar quam sit amet, accumsan orci. Proin nec massa et turpis viverra aliquam. Donec dapibus lectus enim, ut sagittis elit fermentum ac. Etiam at lobortis ex.</p>
+<p>Quisque vel mi sit amet enim tempor molestie non vitae ipsum. Nam non volutpat enim. Sed mauris ante, lobortis vel ultricies ut, aliquam quis augue. Integer vestibulum, neque rhoncus placerat aliquam, arcu nisl varius felis, in feugiat metus lacus eu ex. Fusce at mauris odio. Cras fringilla molestie enim, vel volutpat libero sodales non. Maecenas semper nibh id turpis porta, vel maximus magna mattis. In finibus justo at sapien tempus consequat. Pellentesque eu orci in elit placerat consequat. Praesent rhoncus accumsan arcu non varius. Nunc sollicitudin in nisl et placerat. Quisque in dui lorem. Quisque eleifend neque leo, accumsan egestas enim tempor vitae. Quisque id hendrerit ipsum, at molestie nunc. Suspendisse id efficitur dui.</p>
+<p>Etiam nec efficitur sem. Morbi scelerisque sagittis leo eu porta. Proin commodo metus eget lacinia tempor. Praesent vel pharetra est. Nulla a ullamcorper massa. Aliquam vel commodo nisi. Praesent imperdiet ex eget nulla volutpat iaculis. Proin ut purus erat. Mauris blandit mollis orci porttitor mollis. Mauris in pharetra leo. Vestibulum mattis, ex at tempor posuere, nulla lorem vulputate urna, non semper ipsum neque vitae lectus. Duis consequat sapien a enim laoreet, sed rutrum nisl ultricies.</p>
+<p>In cursus efficitur mi, vitae suscipit ex iaculis in. Vestibulum ullamcorper tortor nulla, at iaculis mi euismod a. Phasellus nisl sem, condimentum a sodales quis, eleifend vitae enim. Mauris libero sem, tristique ac semper non, sagittis quis lacus. Fusce convallis tincidunt augue. Donec tortor mauris, convallis pretium nunc sit amet, egestas laoreet lectus. Donec imperdiet rhoncus fringilla. Pellentesque cursus, mauris ut viverra fringilla, lacus nisl rutrum magna, non viverra est dolor id est. Nulla quis semper turpis, quis vehicula eros. In nisi ex, vehicula a tortor laoreet, semper eleifend dui. Nullam pharetra elementum nulla, volutpat porta urna. Nullam non nunc posuere, finibus libero nec, ultrices diam. Pellentesque sagittis luctus tellus, vel posuere metus finibus ut. Mauris neque erat, ornare et diam eu, tristique feugiat sapien. Ut euismod elementum pretium. Quisque non rhoncus tortor, sed tempor lectus.</p>]]></description>
         
-        <dc:creator>Anonymous (anonymous@example.com)</dc:creator>
+        <dc:creator>J. Thomas (anonymous@example.com)</dc:creator>
     </item>
 </channel>
 </rss>
