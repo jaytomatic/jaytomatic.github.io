@@ -10,7 +10,7 @@ secondary: false
 
 J. Thomas is a poet, writer, erstwhile musician, serial hobby adopter, and wildly uncomfortable referring to himself in the third person.
 
-His most recent collection of poems 'Twenty Poems Written in November 2024, or Me, You, & The World, What Are We To Do?' can be downloaded [here](/static/files/MYaTWWITBD.pdf).
+His most recent collection of poems 'Twenty Poems Written in November 2024, or Me, You, & The World, What Are We To Do?' can be downloaded [here](/files/MYaTWWITBD.pdf).
 
 ### About this site
 
