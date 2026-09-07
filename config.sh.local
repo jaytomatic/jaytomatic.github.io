@@ -36,5 +36,5 @@ FEDIVERSE_CREATOR="jontv@tvwatch.party"
 POSTS_PER_PAGE="10"
 RSS_INCLUDE_FULL_CONTENT="true"
 URL_SLUG_FORMAT="Year/slug"
-
+ENABLE_TAG_RSS="true"
 
