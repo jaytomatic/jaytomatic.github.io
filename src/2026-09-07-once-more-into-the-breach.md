@@ -1,0 +1,25 @@
+---
+title: Once More into the Breach
+date: 2026-09-07 20:34:00 -0500
+tags: blog
+slug: once-more-into-the-breach
+---
+
+Well, here we are again. The beginning of a another project. 
+
+I always feel the need at the outset of something public-facing like this to create some sort of all encompassing Manifesto, some grand justification to explain all the what and the why for anyone that should happen to stumble upon what I'm doing. It's a mostly unhelpful impulse. Trying to describe the exact dimensions of something you're still building is a bit of a fools errand.
+
+Ok, so what is this, then? Good Enough Systems is a place for me to blog, post my poetry, publish essays, and share projects I'm working on. What is a writer who isn't writing? What is a poet who isn't...poeming? 
+
+Those questions are only half hypothetical.
+
+*Sure, that all makes sense*, you say, *but why Good Enough Systems?*
+
+I am, it seems, self-deprecating to a fault. When I was trying to come up with a name for this site, I floated some ideas past my friends on Mastodon that were largely poking fun at myself. I think a few of them were alright, but the always brilliant [Louisa](https://mastodon.xyz/@Louisa) suggested goodenough.systems, and I immediately knew it was a winner. As someone who lives at the intersection of AuDHD and perfectionism, it exactly describes what a place like this is trying to be.
+
+The idea is to update this page often, to develop the habit of writing and publishing things out into the world again. Only time will tell what that actually looks like. I'm not going to task myself with any kind of schedule (yet). I'd love for you to come along for whatever this becomes, so toss the feed into your RSS reader, if you like. That being said, this site purposefully has no analytics or tracking, so I won't know either way (unless you tell me). This project is less about the number of eyeballs that see it.
+
+Until next time, cheers!
+
+
+

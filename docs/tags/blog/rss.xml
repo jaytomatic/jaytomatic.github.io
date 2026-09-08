@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-    <title>Good Enough Systems - RSS Feed</title>
-    <link>https://goodenough.systems/</link>
-    <description>Digital home of J. Thomas</description>
+    <title>Good Enough Systems - Posts tagged with: blog</title>
+    <link>https://goodenough.systems/tags/blog/</link>
+    <description>Posts tagged with: blog</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:38:08 GMT</lastBuildDate>
-    <atom:link href="https://goodenough.systems/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Sep 2026 12:38:07 GMT</lastBuildDate>
+    <atom:link href="https://goodenough.systems/tags/blog/rss.xml" rel="self" type="application/rss+xml" />
     <item>
         <title>Once More into the Breach</title>
         <link>https://goodenough.systems/2026/once-more-into-the-breach/</link>
@@ -21,26 +21,6 @@
 <p>I am, it seems, self-deprecating to a fault. When I was trying to come up with a name for this site, I floated some ideas past my friends on Mastodon that were largely poking fun at myself. I think a few of them were alright, but the always brilliant <a href="https://mastodon.xyz/@Louisa">Louisa</a> suggested goodenough.systems, and I immediately knew it was a winner. As someone who lives at the intersection of AuDHD and perfectionism, it exactly describes what a place like this is trying to be.</p>
 <p>The idea is to update this page often, to develop the habit of writing and publishing things out into the world again. Only time will tell what that actually looks like. I'm not going to task myself with any kind of schedule (yet). I'd love for you to come along for whatever this becomes, so toss the feed into your RSS reader, if you like. That being said, this site purposefully has no analytics or tracking, so I won't know either way (unless you tell me). This project is less about the number of eyeballs that see it.</p>
 <p>Until next time, cheers!</p>]]></description>
-        
-        <dc:creator>J. Thomas (anonymous@example.com)</dc:creator>
-    </item>
-    <item>
-        <title>sixth november, 2024, or, here is my advice</title>
-        <link>https://goodenough.systems/2026/sixth-november-2024-or-here-is-my-advice/</link>
-        <guid isPermaLink="true">https://goodenough.systems/2026/sixth-november-2024-or-here-is-my-advice/</guid>
-        <pubDate>Mon, 07 Sep 2026 20:06:00 GMT</pubDate>
-        <atom:updated>2026-09-07T15:30:57-05:00</atom:updated>
-        <description><![CDATA[<p>hold each-<br />
-other<br />
-close<br />
-and carry a<br />
-knife</p>
-<p>keep your eyes open<br />
-keep the edge true</p>
-<p>aim for<br />
-the heart<br />
-in both cases</p>
-<p><em>Originally published in 'Twenty Poems Written in November 2024, or Me, You, &amp; The World, What Are We To Do?'. Download the whole collection <a href="/files/MYaTWWITBD.pdf">here</a>.</em></p>]]></description>
         
         <dc:creator>J. Thomas (anonymous@example.com)</dc:creator>
     </item>
